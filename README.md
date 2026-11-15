@@ -1,4 +1,4 @@
-# algoritmo-s1
+
 orden de entrega.
 
 pseint_juan david --- sesion 1
